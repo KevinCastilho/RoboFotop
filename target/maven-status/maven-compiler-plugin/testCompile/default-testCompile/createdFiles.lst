@@ -1,0 +1,4 @@
+com\projeto_automacao\utils\Selenium_Methods.class
+com\projeto_automacao\Selenium_Setup.class
+com\projeto_automacao\ConfigSetup.class
+com\projeto_automacao\tests\Selenium_Tests.class
